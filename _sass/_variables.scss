@@ -21,15 +21,17 @@ $purple-color:        #B509AC !default;
 $light-purple-color:  lighten($purple-color, 25%);
 $pink-color:          #f92080 !default;
 $pink-color-light:    #ffdddd !default;
-$yellow-color:        #efcc00 !default;
+$yellow-color:        #b0a038 !default;
 
 $grey-color:          #828282 !default;
 $grey-color-light:    lighten($grey-color, 40%);
 $grey-color-dark:     #1C1C1D;
 $grey-900:            #212529;
 
-$white-color: #ffffff !default;
-$black-color: #000000 !default;
+$tan-color:           #c7b297 !default;
+
+$white-color: #e0dcdc !default;
+$black-color: #121212 !default;
 
 
 // Theme colors
