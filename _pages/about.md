@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 My name is Melanie Cornelius. I'm a PhD candidate in HPC currently finishing the degree at the [University of Chicago at Illinois](uic.edu). I'm excited to be here!
 
-This Fall, 2023, I'm teaching CS 331 at the [Illinois Institute of Technology](iit.edu). If you're here for course information, head over to the course webpage.
+This Fall, 2023, I'm teaching [CS 351](/teaching/cs351) at the [Illinois Institute of Technology](iit.edu). If you're here for course information, head over to the course webpage.
 
 I earned a BS in physics (minor in CS) and a MS in CS from the [Illinois Institute of Technology](iit.edu) in 2016 and 2018, respectively.
 
