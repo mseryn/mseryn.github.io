@@ -9,3 +9,9 @@ _site
 Gemfile.lock
 vendor
 
+# Raw course-material staging areas. These hold original source files
+# (incl. rosters/attendance) and must never be committed or published.
+# Publishable copies are exported to assets/docs/<course>/ instead.
+assets/comp_*/
+assets/cs_*/
+

@@ -214,6 +214,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - assets/comp_125 # raw staging area; never publish (contains rosters)
+  - assets/comp_150 # raw staging area; never publish
 keep_files:
   - CNAME
   - .nojekyll
