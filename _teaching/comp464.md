@@ -38,7 +38,7 @@ Materials will be posted here as the term progresses.
 
 | Lecture | Date | Topic(s) | Materials |
 |---------|------|----------|-----------|
-|         |      |          |           |
+| 01 | | | [slides](/assets/docs/comp464/lecture01_comp464.pdf) |
 
 ---
 ### Assignments
