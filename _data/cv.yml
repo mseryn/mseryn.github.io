@@ -2,96 +2,140 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Melanie Cornelius
+    - name: Based in
+      value: Chicago, Illinois
+    - name: Email
+      value: melanie.e.cornelius@gmail.com
+
+- title: Profile
+  type: list
+  contents:
+    - I'm a computer scientist with a deep appreciation for the role of solid
+      engineering in meaningful research. I hold a B.S. in physics and an M.S. in
+      computer science, and I spent over three years in industry, giving me an
+      academic foundation rooted in real-world software design and maintenance. I then
+      transitioned into R&D and Ph.D. work. I now have over five years of experience in
+      HPC research and have found great fulfillment in teaching, starting as a lab
+      instructor and lecturer, and advancing to an adjunct professor role.
+    - I consider it essential to balance innovation and novelty with grounded software
+      practices. This view comes from my industry experience and is sustained by a
+      genuine passion for exciting ideas that deliver practical impact. I work well in
+      collaborative, high-pressure environments, and when teaching, I focus on
+      integrating tangible skills and real-world projects with core computer science
+      principles.
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD Candidate (fully qualified), Computer Science
+      institution: University of Illinois at Chicago
+      year: 2023 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Expected graduation May 2027.
+        - Member of the SPEAR lab.
+    - title: PhD Candidate, Computer Science
+      institution: Illinois Institute of Technology
+      year: 2019 - 2023
+    - title: Master of Science, Computer Science
+      institution: Illinois Institute of Technology
+      year: 2016 - 2018
+    - title: Bachelor of Science, Physics (cum laude), Minor in Computer Science
+      institution: Illinois Institute of Technology
+      year: 2011 - 2016
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant
+      institution: Argonne Leadership Computing Facility
+      year: May 2024 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Refresh facility reports on supercomputer state and system data using D3 and TypeScript.
+        - Data governance and provenance at-scale across the ALCF.
+        - Supervisor: Doug Waldron.
+    - title: Research Assistant
+      institution: Illinois Institute of Technology
+      year: Aug 2017 - May 2024
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - HPC system log analysis and co-location studies.
+        - Created a performance monitoring suite for heterogeneous HPC architectures.
+        - Supervisor: Dr. Zhiling Lan.
+    - title: Research Aide
+      institution: Argonne Leadership Computing Facility
+      year: May 2021 - Sep 2021
       description:
+        - Advanced the capabilities of performance monitoring and debugging in LLVM/Clang and OpenMP.
+        - Supervisor: Johannes Doerfert.
+    - title: Research Aide
+      institution: Argonne Leadership Computing Facility
+      year: 2018, 2020
+      description:
+        - Researched novel and prototype architecture performance.
+        - May - Aug 2018 and May - Aug 2020.
+        - Supervisor: Lisa Childers.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Teaching
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Adjunct Professor
+      institution: Loyola University Chicago
+      year: 2026 - present
+      description:
+        - "COMP 464: High Performance Computing (Fall 2026)."
+        - "COMP 150: Introduction to Computing (Spring 2026)."
+        - "COMP 125: Visual Information Processing (Spring 2026)."
+    - title: Adjunct Professor
+      institution: Illinois Institute of Technology
+      year: Aug 2023 - Dec 2023
+      description:
+        - "Instructor for CS 351: Systems Programming - robust use of the OS and low-level libraries and software."
+    - title: Lab Instructor and Teaching Assistant
+      institution: Illinois Institute of Technology
+      year: Aug 2017 - Aug 2023
+      description:
+        - Lab instructor for systems programming (C and OS-adjacent programming).
+        - TA and guest lecturer for parallel and distributed programming courses, including assignment design.
+        - Supervisor: Dr. Zhiling Lan.
 
-- title: Honors and Awards
+- title: Industry Experience
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - title: Software Engineer
+      institution: Kove IO, Inc., Chicago, IL
+      year: Feb 2019 - Feb 2020
+      description:
+        - Proposed, designed, and implemented the "Kove Toolkit", using customer data to demonstrate product viability and predict usage.
+    - title: Software Engineer
+      institution: Project44, Chicago, IL
+      year: Feb 2017 - Sep 2017
+      description:
+        - Worked in a textbook-structured Agile team developing client-integration solutions.
 
-- title: Academic Interests
+- title: Skills
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - title: Languages and Tools
       items:
-        - Description 1.
-        - Description 2.
+        - Python, C/C++, TypeScript, JavaScript, Java, Ruby, MATLAB/Octave, Assembly
+    - title: Performance and Systems
+      items:
+        - Application profiling and analysis
+        - Compiler modification (LLVM/Clang, OpenMP)
+        - Linux administration
+    - title: Data and Visualization
+      items:
+        - SQL (Oracle, MySQL, SQLite)
+        - VictoriaMetrics
+        - D3
+    - title: Software Engineering
+      items:
+        - Frontend (Angular, Node.js) and backend (REST, SOAP) development
+        - Version control (Git, CVS)
+        - CI/CD (Jenkins, GitHub Actions)
+        - Development methodologies (Scrum, Kanban, Waterfall)
 
-- title: Other Interests
+- title: Publications
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - A full list is on the <a href="/publications/">publications page</a>.
