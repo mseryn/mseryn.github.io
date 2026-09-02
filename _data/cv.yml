@@ -53,27 +53,27 @@
       description:
         - Refresh facility reports on supercomputer state and system data using D3 and TypeScript.
         - Data governance and provenance at-scale across the ALCF.
-        - Supervisor: Doug Waldron.
+        - "Supervisor: Doug Waldron."
     - title: Research Assistant
       institution: Illinois Institute of Technology
       year: Aug 2017 - May 2024
       description:
         - HPC system log analysis and co-location studies.
         - Created a performance monitoring suite for heterogeneous HPC architectures.
-        - Supervisor: Dr. Zhiling Lan.
+        - "Supervisor: Dr. Zhiling Lan."
     - title: Research Aide
       institution: Argonne Leadership Computing Facility
       year: May 2021 - Sep 2021
       description:
         - Advanced the capabilities of performance monitoring and debugging in LLVM/Clang and OpenMP.
-        - Supervisor: Johannes Doerfert.
+        - "Supervisor: Johannes Doerfert."
     - title: Research Aide
       institution: Argonne Leadership Computing Facility
       year: 2018, 2020
       description:
         - Researched novel and prototype architecture performance.
         - May - Aug 2018 and May - Aug 2020.
-        - Supervisor: Lisa Childers.
+        - "Supervisor: Lisa Childers."
 
 - title: Teaching
   type: time_table
@@ -96,7 +96,7 @@
       description:
         - Lab instructor for systems programming (C and OS-adjacent programming).
         - TA and guest lecturer for parallel and distributed programming courses, including assignment design.
-        - Supervisor: Dr. Zhiling Lan.
+        - "Supervisor: Dr. Zhiling Lan."
 
 - title: Industry Experience
   type: time_table
