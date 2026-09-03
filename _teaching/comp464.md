@@ -1,7 +1,7 @@
 ---
 layout: page
 title: comp464
-description: COMP 464 - High Performance Computing
+description: COMP 364/464 - High Performance Computing
 img: assets/img/loyola_chicago.jpg
 importance: 1
 category: work
@@ -11,33 +11,61 @@ giscus_comments: false
 
 **Loyola University Chicago — Fall 2026**
 
+Cross-listed as COMP 364 (undergraduate) and COMP 464 (graduate). Project
+requirements differ depending on the section you are enrolled in.
+
 ### Syllabus
 
-Syllabus coming soon.
+[Course syllabus](/assets/docs/comp464/syllabus_comp364-464_v1.0.pdf), v1.0
 
 ---
 ### For questions
 
-Course details and material discussion are on Piazza.
+Course details and material discussion are on
+[Piazza](https://piazza.com/class/mt7s9czfanv3b4). This is the preferred
+channel for anything course-related.
 
 For anything involving personal information, please [email me](mailto:mcornelius@luc.edu).
 
 ---
 ### Logistics
 
-The course meets weekly on Wednesdays, 26 August through 2 December 2026.
+| | |
+|---|---|
+| Schedule | Wednesdays, 7:00–9:30 PM |
+| Location | Remote, over Zoom |
+| Office hours | Wednesdays 6:15–7:00 PM, plus appointments via [Calendly](https://calendly.com/melanie-e-cornelius) |
+| Prerequisite | COMP 413 |
+| Contact | [mcornelius@luc.edu](mailto:mcornelius@luc.edu) |
 
-To schedule a meeting with me, please use [Calendly](https://calendly.com/melanie-e-cornelius).
+Classes are usually recorded, but recordings are not guaranteed — plan to
+attend synchronously. Exams are held in person barring extenuating
+circumstances arranged with me well in advance.
+
+---
+### Grading
+
+| Component | Weight |
+|-----------|--------|
+| Midterm | 25% |
+| Final | 25% |
+| Project 1 — systems survey | 10% |
+| Project 2 — programming and performance | 15% |
+| Project 3 — capstone | 25% |
+
+Grades are curved. Example exams and solutions are provided at each review
+session, and project rubrics and examples are posted.
 
 ---
 ### Schedule
 
-Materials are posted here as the term progresses.
+This schedule is subject to change; changes are announced in class and on
+Piazza. Materials are posted here as the term progresses.
 
 | Week | Date | Topic | Reading | HW | Materials |
 |------|------|-------|---------|----|-----------|
 | 01 | Aug 26 | Intro to the class + planning questionnaire | — | — | [slides](/assets/docs/comp464/lecture01_comp464.pdf) |
-| 02 | Sep 2 | Intro to HPC: architectures, networks, topics overview | — | — | |
+| 02 | Sep 2 | Intro to HPC: architectures, networks, topics overview | — | — | [slides](/assets/docs/comp464/lecture02_comp464.pdf) |
 | 03 | Sep 9 | Networks and architectures (cont.) + Linux | R1 | HW1 | |
 | 04 | Sep 16 | Parallel programming (part 1) | R2 | HW2 | |
 | 05 | Sep 23 | Parallel programming (part 2) | R3 | HW3 | |
@@ -51,6 +79,9 @@ Materials are posted here as the term progresses.
 | 13 | Nov 18 | Open — possible guest speaker | R10 | HW10 | |
 | 14 | Nov 25 | Thanksgiving break | R11 (optional) | — | |
 | 15 | Dec 2 | Wrap-up, presentations, final review | — | — | |
+
+Readings are posted to Piazza the week before the lecture they accompany, with
+links to the materials. No material is assigned over breaks.
 
 ---
 ### Projects
@@ -68,3 +99,17 @@ Materials are posted here as the term progresses.
 Project 3 is announced in week 2 and runs the length of the term. The week 8
 midterm coincides with the Project 3 draft survey deadline, when the survey
 rubric is posted.
+
+---
+### Resources
+
+- M. van Steen and A. S. Tanenbaum, *Distributed Systems*, 4th ed., 2023 —
+  referenced occasionally and [available free from the authors](https://www.distributed-systems.net/)
+
+---
+### Late work
+
+Each late day reduces an assignment's grade by 50%. Students have three
+no-questions-asked late-credits, each granting a 24-hour extension. These
+cannot be used on exams, but apply freely to other deadlines unless stated
+otherwise. Let me know when you use one.
