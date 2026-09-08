@@ -66,7 +66,7 @@ Piazza. Materials are posted here as the term progresses.
 |------|------|-------|---------|----|-----------|
 | 01 | Aug 26 | Intro to the class + planning questionnaire | — | — | [slides](/assets/docs/comp464/lecture01_comp464.pdf) |
 | 02 | Sep 2 | Intro to HPC: architectures, networks, topics overview | — | — | [slides](/assets/docs/comp464/lecture02_comp464.pdf) |
-| 03 | Sep 9 | Networks and architectures (cont.) + Linux | R1 | HW1 | |
+| 03 | Sep 9 | Networks and architectures (cont.) + Linux | [R1](https://piazza.com/class/mt7s9czfanv3b4/post/17) | ~~HW1~~ | |
 | 04 | Sep 16 | Parallel programming (part 1) | R2 | HW2 | |
 | 05 | Sep 23 | Parallel programming (part 2) | R3 | HW3 | |
 | 06 | Sep 30 | Performance monitoring | R4 | HW4 | |
