@@ -64,4 +64,4 @@ I earned a BS in physics (minor in CS) and a MS in CS from the [Illinois Institu
 
 I like HPC. My focus is on performance monitoring/analytics, and the lofty goal is to make HPC work better for everyone. I focus on work with intersecting theory and empiricism. When I'm not spending time with my family, I also garden, a weirdly-common trend in CS. I also read a lot, sometimes even for fun! Old-school SciFi is my thing, plus (predictably) ACD's Sherlock Holmes, and also [Dresden Files](https://www.jim-butcher.com/books/dresden). 
 
-If you want to chat, send me an email or schedule something via [calendy](https://calendly.com/melanie-e-cornelius).
+If you want to chat, send me an email or schedule something via [calendly](https://calendly.com/melanie-e-cornelius).
