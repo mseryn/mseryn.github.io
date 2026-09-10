@@ -62,6 +62,6 @@ This Fall, 2026, I'm teaching **COMP 464, High Performance Computing**. If you'r
 
 I earned a BS in physics (minor in CS) and a MS in CS from the [Illinois Institute of Technology](https://www.iit.edu) in 2016 and 2018, respectively.
 
-I like HPC. My focus is on performance monitoring/analytics, and the lofty goal is to make HPC work better for everyone. I focus on work with intersecting theory and empiricism. I have a weird obsession with making graphs as self-explanatory as possible. I start to whither away if I go too long without teaching. When I'm not spending time with my family, I also garden (weirdly common in CS). I read a lot, sometimes even for fun! Old-school SciFi is my thing, and also [Dresden Files](https://www.jim-butcher.com/books/dresden). Predictibly, I like coffee too much.
+I like HPC. My focus is on performance monitoring/analytics, and the lofty goal is to make HPC work better for everyone. I focus on work with intersecting theory and empiricism. When I'm not spending time with my family, I also garden, a weirdly-common trend in CS. I also read a lot, sometimes even for fun! Old-school SciFi is my thing, plus (predictably) ACD's Sherlock Holmes, and also [Dresden Files](https://www.jim-butcher.com/books/dresden). 
 
 If you want to chat, send me an email or schedule something via [calendy](https://calendly.com/melanie-e-cornelius).
