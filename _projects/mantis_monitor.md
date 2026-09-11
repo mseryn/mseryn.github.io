@@ -1,7 +1,7 @@
 ---
 layout: page
 title: mantis-monitor
-description: a project with a background image
+description: Userspace HPC monitoring
 img: assets/img/mantis-logo-white.png
 importance: 3
 category: work

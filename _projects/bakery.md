@@ -1,7 +1,7 @@
 ---
 layout: page
 title: bakery
-description: TODO one-line description
+description: Validator and enrichment interface for parbaked autodocumentation (parbake)
 img: assets/repos/bakery_final.png
 importance: 1
 category: work

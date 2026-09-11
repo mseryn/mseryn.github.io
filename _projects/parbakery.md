@@ -1,7 +1,7 @@
 ---
 layout: page
 title: parbakery
-description: TODO one-line description
+description: performant, repeatable, deterministic autodocumentation for many-datasets ecosystem
 img: assets/repos/parbake_final.png
 importance: 2
 category: work
