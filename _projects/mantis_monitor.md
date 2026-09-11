@@ -7,7 +7,7 @@ importance: 3
 category: work
 related_publications:
 github: https://github.com/mseryn/mantis-monitor
-giscus_comments: true
+giscus_comments: false
 ---
 
 Mantis is an open-source Python toolkit that streamlines performance
