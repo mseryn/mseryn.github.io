@@ -12,5 +12,5 @@ giscus_comments: false
 Companion project to [parbakery](/projects/parbakery/) — two parts of the
 same system.
 
-Project write-up coming soon. An arXiv paper is expected later today —
-link it here once it's public.
+**TODO:** code isn't pushed yet — repository is currently empty. An arXiv
+paper is expected soon; write-up to follow once both land.
