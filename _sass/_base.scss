@@ -514,8 +514,25 @@ footer.sticky-bottom {
   }
 
   .card {
+    // Fixed-size thumbnail box so cards of mismatched source aspect ratio
+    // (square logos next to portrait ones, say) don't produce wildly
+    // different card heights in the masonry grid.
+    figure {
+      aspect-ratio: 1 / 1;
+      overflow: hidden;
+      margin: 0;
+    }
+
+    picture {
+      display: block;
+      width: 100%;
+      height: 100%;
+    }
+
     img {
       width: 100%;
+      height: 100%;
+      object-fit: contain;
     }
   }
 

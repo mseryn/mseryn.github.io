@@ -3,7 +3,7 @@ layout: page
 title: parbakery
 description: TODO one-line description
 img: assets/repos/parbake_final.png
-importance: 4
+importance: 2
 category: work
 github: https://github.com/mseryn/parbakery
 giscus_comments: false

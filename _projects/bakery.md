@@ -3,7 +3,7 @@ layout: page
 title: bakery
 description: TODO one-line description
 img: assets/repos/bakery_final.png
-importance: 3
+importance: 1
 category: work
 github: https://github.com/mseryn/bakery
 giscus_comments: false

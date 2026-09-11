@@ -3,7 +3,7 @@ layout: page
 title: mantis-monitor
 description: a project with a background image
 img: assets/img/mantis-logo-white.png
-importance: 1
+importance: 3
 category: work
 related_publications:
 giscus_comments: true
