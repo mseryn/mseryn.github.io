@@ -3,7 +3,7 @@ layout: page
 title: mantis-monitor
 description: Userspace HPC monitoring
 img: assets/img/mantis-logo-white.png
-importance: 3
+importance: 4
 category: work
 related_publications:
 github: https://github.com/mseryn/mantis-monitor

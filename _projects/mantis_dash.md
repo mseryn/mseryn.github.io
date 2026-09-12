@@ -3,7 +3,7 @@ layout: page
 title: mantis-dash
 description: vis for Mantis
 img: assets/img/mantis-dash-logo-white.png
-importance: 4
+importance: 5
 category: work
 github: https://github.com/mseryn/mantis-dash-public
 giscus_comments: false
