@@ -68,8 +68,8 @@ Piazza. Materials are posted here as the term progresses.
 | 02 | Sep 2 | Intro to HPC: architectures, networks, topics overview | — | — | [slides](/assets/docs/comp464/lecture02_comp464.pdf) |
 | 03 | Sep 9 | Networks and architectures (cont.) + Linux | [R1](https://piazza.com/class/mt7s9czfanv3b4/post/17) | ~~HW1~~ | [slides](/assets/docs/comp464/lecture03_comp464.pdf) |
 | 04 | Sep 16 | Parallel programming (part 1) | [R2](https://piazza.com/class/mt7s9czfanv3b4/post/21) | HW2 | |
-| 05 | Sep 23 | Parallel programming (part 2) | [R3](https://piazza.com/class/mt7s9czfanv3b4/post/21) | HW3 | |
-| 06 | Sep 30 | Performance monitoring | R4 | HW4 | |
+| 05 | Sep 23 | Parallel programming (part 2) | [R3](https://piazza.com/class/mt7s9czfanv3b4/post/21) | HW3 | [slides](/assets/docs/comp464/lecture05_comp464.pdf) |
+| 06 | Sep 30 | Performance monitoring | R4 | HW4 | [slides](/assets/docs/comp464/lecture06_comp464.pdf) |
 | 07 | Oct 7 | Performance monitoring + midterm review | R5 | HW5 | |
 | 08 | Oct 14 | **Midterm** | — | — | |
 | 09 | Oct 21 | Virtualization in HPC | R6 | HW6 | |
