@@ -62,23 +62,23 @@ session, and project rubrics and examples are posted.
 This schedule is subject to change; changes are announced in class and on
 Piazza. Materials are posted here as the term progresses.
 
-| Week | Date | Topic | Reading | HW | Materials |
-|------|------|-------|---------|----|-----------|
-| 01 | Aug 26 | Intro to the class + planning questionnaire | — | — | [slides](/assets/docs/comp464/lecture01_comp464.pdf) |
-| 02 | Sep 2 | Intro to HPC: architectures, networks, topics overview | — | — | [slides](/assets/docs/comp464/lecture02_comp464.pdf) |
-| 03 | Sep 9 | Networks and architectures (cont.) + Linux | [R1](https://piazza.com/class/mt7s9czfanv3b4/post/17) | ~~HW1~~ | [slides](/assets/docs/comp464/lecture03_comp464.pdf) |
-| 04 | Sep 16 | Parallel programming (part 1) | [R2](https://piazza.com/class/mt7s9czfanv3b4/post/21) | HW2 | |
-| 05 | Sep 23 | Parallel programming (part 2) | [R3](https://piazza.com/class/mt7s9czfanv3b4/post/21) | HW3 | [slides](/assets/docs/comp464/lecture05_comp464.pdf) |
-| 06 | Sep 30 | Performance monitoring | R4 | HW4 | [slides](/assets/docs/comp464/lecture06_comp464.pdf) |
-| 07 | Oct 7 | Performance monitoring + midterm review | R5 | HW5 | |
-| 08 | Oct 14 | **Midterm** | — | — | |
-| 09 | Oct 21 | Virtualization in HPC | R6 | HW6 | |
-| 10 | Oct 28 | Data in HPC + security | R7 | HW7 | |
-| 11 | Nov 4 | Fault tolerance | R8 | HW8 | |
-| 12 | Nov 11 | AI in HPC | R9 | HW9 | |
-| 13 | Nov 18 | Open — possible guest speaker | R10 | HW10 | |
-| 14 | Nov 25 | Thanksgiving break | R11 (optional) | — | |
-| 15 | Dec 2 | Wrap-up, presentations, final review | — | — | |
+| Week | Date | Topic | Reading | HW | Projects | Materials |
+|------|------|-------|---------|----|----------|-----------|
+| 01 | Aug 26 | Intro to the class + planning questionnaire | — | — | — | [slides](/assets/docs/comp464/lecture01_comp464.pdf) |
+| 02 | Sep 2 | Intro to HPC: architectures, networks, topics overview | — | — | | [slides](/assets/docs/comp464/lecture02_comp464.pdf) |
+| 03 | Sep 9 | Networks and architectures (cont.) + Linux, finalize | [R1](https://piazza.com/class/mt7s9czfanv3b4/post/17) | | Project 1 announced | [slides](/assets/docs/comp464/lecture03_comp464.pdf) |
+| 04 | Sep 16 | Parallel programming (intro) | [R2](https://piazza.com/class/mt7s9czfanv3b4/post/21) | | | |
+| 05 | Sep 23 | Parallel programming (OpenMP) | [R3](https://piazza.com/class/mt7s9czfanv3b4/post/21) | HW05 | | [slides](/assets/docs/comp464/lecture05_comp464.pdf) |
+| 06 | Sep 30 | Parallel programming (MPI) | R4 | HW06 | Project 1 due; Projects 2 and 3 announced | [slides](/assets/docs/comp464/lecture06_comp464.pdf) |
+| 07 | Oct 7 | Performance monitoring + midterm review | R5 | HW07 | | |
+| 08 | Oct 14 | **Midterm** | — | | | |
+| 09 | Oct 21 | Virtualization in HPC | R6 | | Project 2 due; Project 3 plan due | |
+| 10 | Oct 28 | Data in HPC + security | R7 | | | |
+| 11 | Nov 4 | Fault tolerance | R8 | | | |
+| 12 | Nov 11 | AI in HPC | R9 | | | |
+| 13 | Nov 18 | Open — possible guest speaker | R10 | | Project work time | |
+| 14 | Nov 25 | Thanksgiving break | R11 (optional) | — | | |
+| 15 | Dec 2 | Wrap-up, presentations, final review | — | — | Project 3 due | |
 
 Readings are posted to Piazza the week before the lecture they accompany, with
 links to the materials. No material is assigned over breaks.
