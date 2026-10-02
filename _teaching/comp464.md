@@ -89,7 +89,7 @@ links to the materials. No material is assigned over breaks.
 | Project | Part | Description | Assigned | Due |
 |---------|------|-------------|----------|-----|
 | 1 | — | [Survey of networks and architectures in modern HPC](/assets/docs/comp464/project1_hpc-systems-survey.pdf) | Week 2 (Sep 2) | Week 5 (Sep 26) |
-| 2 | A | Parallel programming | Week 4 (Sep 16) | Week 6 (Sep 30) |
+| 2 | A | [Parallel programming](https://piazza.com/class/mt7s9czfanv3b4/post/33) | Week 4 (Sep 16) | Week 6 (Sep 30) |
 | 2 | B | Efficiency analysis of Part A | Week 6 (Sep 30) | Week 9 (Oct 21) |
 | 3 | — | Topic selection, in your own area | Week 2 (Sep 2) | Week 6 (Sep 30) |
 | 3 | A | Programming assignment on your topic | Week 2 (Sep 2) | Week 15 (Dec 2) |
