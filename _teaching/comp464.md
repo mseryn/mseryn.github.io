@@ -16,7 +16,7 @@ requirements differ depending on the section you are enrolled in.
 
 ### Syllabus
 
-[Course syllabus](/assets/docs/comp464/syllabus_comp364-464_v1.0.pdf), v1.0
+[Course syllabus](/assets/docs/comp464/syllabus_comp364-464_v2.0.pdf), v2.0
 
 ---
 ### For questions
