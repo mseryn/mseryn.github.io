@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Project 2A (counting queens) is posted for [COMP 464](/teaching/comp464), with [stub code](/assets/docs/comp464/nqueens.tar).
+Project 2A (counting queens) is posted for [COMP 464](/teaching/comp464), with [stub code](/assets/docs/comp464/nqueens.tar). Questions go on [Piazza](https://piazza.com/class/mt7s9czfanv3b4/post/33).
