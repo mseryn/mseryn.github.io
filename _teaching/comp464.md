@@ -70,7 +70,7 @@ Piazza. Materials are posted here as the term progresses.
 | 04 | Sep 16 | Parallel programming (intro) | [R2](https://piazza.com/class/mt7s9czfanv3b4/post/21) | | | |
 | 05 | Sep 23 | Parallel programming (OpenMP) | [R3](https://piazza.com/class/mt7s9czfanv3b4/post/21) | HW05 | | [slides](/assets/docs/comp464/lecture05_comp464.pdf) |
 | 06 | Sep 30 | Parallel programming (MPI) | R4 | HW06 | Project 1 due; Projects 2 and 3 announced | [slides](/assets/docs/comp464/lecture06_comp464.pdf) |
-| 07 | Oct 7 | Performance monitoring + midterm review | R5 | HW07 | | |
+| 07 | Oct 7 | Performance monitoring + midterm review | R5 | HW07 | | practice [problems](/teaching/comp464/practice-questions/), [answers](/teaching/comp464/practice-answers/), [Piazza](https://piazza.com/class/mt7s9czfanv3b4/post/38) |
 | 08 | Oct 14 | **Midterm** | — | | | |
 | 09 | Oct 21 | Virtualization in HPC | R6 | | Project 2 due; Project 3 plan due | |
 | 10 | Oct 28 | Data in HPC + security | R7 | | | |
