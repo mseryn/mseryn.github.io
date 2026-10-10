@@ -199,6 +199,14 @@ blockquote {
   }
 }
 
+// Logo shown before the site owner's name (navbar and about page)
+.name-logo {
+  height: 1em;
+  width: auto;
+  margin-right: 0.3em;
+  vertical-align: -0.12em;
+}
+
 .navbar.navbar-light {
   a {
     &:hover {
