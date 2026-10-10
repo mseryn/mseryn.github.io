@@ -68,17 +68,17 @@ Piazza. Materials are posted here as the term progresses.
 | 02 | Sep 2 | Intro to HPC: architectures, networks, topics overview | — | — | | [slides](/assets/docs/comp464/lecture02_comp464.pdf) |
 | 03 | Sep 9 | Networks and architectures (cont.) + Linux, finalize | [R1](https://piazza.com/class/mt7s9czfanv3b4/post/17) | | Project 1 announced | [slides](/assets/docs/comp464/lecture03_comp464.pdf) |
 | 04 | Sep 16 | Parallel programming (intro) | [R2](https://piazza.com/class/mt7s9czfanv3b4/post/21) | | | |
-| 05 | Sep 23 | Parallel programming (OpenMP) | [R3](https://piazza.com/class/mt7s9czfanv3b4/post/21) | HW05 | | [slides](/assets/docs/comp464/lecture05_comp464.pdf) |
-| 06 | Sep 30 | Parallel programming (MPI) | R4 | HW06 | Project 1 due; Projects 2 and 3 announced | [slides](/assets/docs/comp464/lecture06_comp464.pdf) |
-| 07 | Oct 7 | Performance monitoring + midterm review | R5 | HW07 | | practice [problems](/teaching/comp464/practice-questions/), [answers](/teaching/comp464/practice-answers/), [Piazza](https://piazza.com/class/mt7s9czfanv3b4/post/38) |
+| 05 | Sep 23 | Parallel programming (OpenMP) | [R3](https://piazza.com/class/mt7s9czfanv3b4/post/21) | | | [slides](/assets/docs/comp464/lecture05_comp464.pdf) |
+| 06 | Sep 30 | Parallel programming (MPI) | | | Project 1 due; Projects 2 and 3 announced | [slides](/assets/docs/comp464/lecture06_comp464.pdf) |
+| 07 | Oct 7 | Performance monitoring + midterm review | | | Project 2B assigned (Oct 10); Project 3 assigned (Oct 12) | practice [problems](/teaching/comp464/practice-questions/), [answers](/teaching/comp464/practice-answers/), [Piazza](https://piazza.com/class/mt7s9czfanv3b4/post/38) |
 | 08 | Oct 14 | **Midterm** | — | | | |
-| 09 | Oct 21 | Virtualization in HPC | R6 | | Project 2 due; Project 3 plan due | |
-| 10 | Oct 28 | Data in HPC + security | R7 | | | |
+| 09 | Oct 21 | Virtualization in HPC | R6 | | Project 2A due (Oct 24) | |
+| 10 | Oct 28 | Data in HPC + security | R7 | | Project 3 check-in due (Oct 28); Project 2B due (Oct 31) | |
 | 11 | Nov 4 | Fault tolerance | R8 | | | |
 | 12 | Nov 11 | AI in HPC | R9 | | | |
 | 13 | Nov 18 | Open — possible guest speaker | R10 | | Project work time | |
 | 14 | Nov 25 | Thanksgiving break | R11 (optional) | — | | |
-| 15 | Dec 2 | Wrap-up, presentations, final review | — | — | Project 3 due | |
+| 15 | Dec 2 | Wrap-up, presentations, final review | — | — | Project 3 due at final exam (date TBA) | |
 
 Readings are posted to Piazza the week before the lecture they accompany, with
 links to the materials. No material is assigned over breaks.
@@ -88,17 +88,14 @@ links to the materials. No material is assigned over breaks.
 
 | Project | Part | Description | Assigned | Due |
 |---------|------|-------------|----------|-----|
-| 1 | — | [Survey of networks and architectures in modern HPC](/assets/docs/comp464/project1_hpc-systems-survey.pdf) | Week 3 (Sep 9) | Week 6 (Sep 30) |
-| 2 | A | [Parallel programming: counting queens](/assets/docs/comp464/project2a_counting-queens.pdf) ([stub code](/assets/docs/comp464/nqueens.tar), [Piazza](https://piazza.com/class/mt7s9czfanv3b4/post/33)) | Week 6 (Sep 30) | Week 9 (Oct 21) |
-| 2 | B | Performance analysis | Week 6 (Sep 30) | Week 9 (Oct 21) |
-| 3 | — | Topic selection, in your own area | Week 6 (Sep 30) | Week 9 (Oct 21) |
-| 3 | A | Survey on your topic | Week 6 (Sep 30) | Draft week 8, final week 15 (Dec 2) |
-| 3 | B | Programming assignment on your topic | Week 6 (Sep 30) | Week 15 (Dec 2) |
-| 3 | C | Presentation, 10–20 min (pre-recorded accepted; presenting live earns extra credit) | Week 6 (Sep 30) | Week 15 (Dec 2) |
+| 1 | — | [Survey of networks and architectures in modern HPC](/assets/docs/comp464/project1_hpc-systems-survey.pdf) | Sep 9 | Sep 30 |
+| 2 | A | [Parallel programming: counting queens](/assets/docs/comp464/project2a_counting-queens.pdf) ([stub code](/assets/docs/comp464/nqueens.tar), [Piazza](https://piazza.com/class/mt7s9czfanv3b4/post/33)) | Sep 30 | Oct 24 |
+| 2 | B | [Performance monitoring: counting queens with /proc and perf](/assets/docs/comp464/project2b_monitoring-counting-queens.pdf) | Oct 10 | Oct 31 |
+| 3 | — | [Capstone HPC project](/assets/docs/comp464/project3_hpc-project.pdf): check-in (plan and drafts) | Oct 12 | Oct 28 |
+| 3 | — | [Capstone HPC project](/assets/docs/comp464/project3_hpc-project.pdf): final report, code, and run package | Oct 12 | Final exam date (TBA) |
 
-Project 3 is announced in week 6 and runs the rest of the term. The week 8
-midterm coincides with the Project 3 draft survey deadline, when the survey
-rubric is posted.
+All deadlines are 11:59 PM AoE. Project 3 runs the rest of the term and may be
+done alone or in a pair.
 
 ---
 ### Resources
