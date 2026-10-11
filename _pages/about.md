@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Hello and Welcome! 
+subtitle: Hello and welcome!
 
 profile:
   align: right
@@ -14,9 +14,9 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-My name is Melanie Cornelius. I'm a fully-qualified PhD candidate in HPC at the [University of Illinois at Chicago](https://www.uic.edu), where I work in the [SPEAR lab](https://spear.lab.uic.edu/). I graduate in May 2027. I'm excited to be here!
+I'm Melanie Cornelius, a PhD candidate in HPC at the [University of Illinois at Chicago](https://www.uic.edu), working in the [SPEAR lab](https://spear.lab.uic.edu/). I expect to graduate in May 2027.
 
-I'm employed full-time as a research aide at the [Argonne Leadership Computing Facility](https://www.alcf.anl.gov/), part of [Argonne National Laboratory](https://www.anl.gov/), and I teach at [Loyola University Chicago](https://www.luc.edu).
+I work full-time as a research aide at the [Argonne Leadership Computing Facility](https://www.alcf.anl.gov/), part of [Argonne National Laboratory](https://www.anl.gov/), and I teach at [Loyola University Chicago](https://www.luc.edu).
 
 <div class="affiliations">
   <a href="https://www.anl.gov/" title="Argonne National Laboratory">
@@ -53,15 +53,17 @@ I'm employed full-time as a research aide at the [Argonne Leadership Computing F
   }
 </style>
 
-This Fall, 2026, I'm teaching **COMP 464, High Performance Computing**. If you're here for course information, head over to the [teaching page](/teaching/).
+In Fall 2026 I'm teaching **COMP 464, High Performance Computing**. Course information is on the [teaching page](/teaching/).
 
 - **[COMP 464](/teaching/comp464)** — High Performance Computing · [Loyola University Chicago](https://www.luc.edu) · Fall 2026
 - **[COMP 125](/teaching/comp125)** — Visual Information Processing · Loyola University Chicago · Spring 2026
 - **[COMP 150](/teaching/comp150)** — Introduction to Computing · Loyola University Chicago · Spring 2026
 - **[CS 351](/teaching/cs351)** — Systems Programming · [Illinois Institute of Technology](https://www.iit.edu) · Fall 2023
 
-I earned a BS in physics (minor in CS) and a MS in CS from the [Illinois Institute of Technology](https://www.iit.edu) in 2016 and 2018, respectively.
+I hold a BS in physics (minor in CS, 2016) and an MS in CS (2018) from the [Illinois Institute of Technology](https://www.iit.edu).
 
-I like HPC. My focus is on performance monitoring/analytics, and the lofty goal is to make HPC work better for everyone. I focus on work with intersecting theory and empiricism. When I'm not spending time with my family, I also garden, a weirdly-common trend in CS. I also read a lot, sometimes even for fun! Old-school SciFi is my thing, plus (predictably) ACD's Sherlock Holmes, and also [Dresden Files](https://www.jim-butcher.com/books/dresden). 
+My research is in HPC performance monitoring, efficiency, data curation, and analytics. My work has a heavy emphasis on practicality and empiricism: I want to make HPC systems work better for the people who use them.
 
-If you want to chat, send me an email or schedule something via [calendly](https://calendly.com/melanie-e-cornelius).
+Outside of work I like metal, gardening, reading (lots of classics and sci-fi), and spending time with my family.
+
+To get in touch, email me or book a time on [Calendly](https://calendly.com/melanie-e-cornelius).
