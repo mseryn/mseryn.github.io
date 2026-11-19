@@ -62,23 +62,23 @@ session, and project rubrics and examples are posted.
 This schedule is subject to change; changes are announced in class and on
 Piazza. Materials are posted here as the term progresses.
 
-| Week | Date | Topic | Reading | HW | Projects | Materials |
-|------|------|-------|---------|----|----------|-----------|
-| 01 | Aug 26 | Intro to the class + planning questionnaire | — | — | — | [slides](/assets/docs/comp464/lecture01_comp464.pdf) |
-| 02 | Sep 2 | Intro to HPC: architectures, networks, topics overview | — | — | | [slides](/assets/docs/comp464/lecture02_comp464.pdf) |
-| 03 | Sep 9 | Networks and architectures (cont.) + Linux, finalize | [R1](https://piazza.com/class/mt7s9czfanv3b4/post/17) | | Project 1 announced | [slides](/assets/docs/comp464/lecture03_comp464.pdf) |
-| 04 | Sep 16 | Parallel programming (intro) | [R2](https://piazza.com/class/mt7s9czfanv3b4/post/21) | | | |
-| 05 | Sep 23 | Parallel programming (OpenMP) | [R3](https://piazza.com/class/mt7s9czfanv3b4/post/21) | | | [slides](/assets/docs/comp464/lecture05_comp464.pdf) |
-| 06 | Sep 30 | Parallel programming (MPI) | | | Project 1 due; Projects 2 and 3 announced | [slides](/assets/docs/comp464/lecture06_comp464.pdf) |
-| 07 | Oct 7 | Performance monitoring + midterm review | | | Project 2B assigned (Oct 10); Project 3 assigned (Oct 12) | practice [problems](/teaching/comp464/practice-questions/), [answers](/teaching/comp464/practice-answers/), [Piazza](https://piazza.com/class/mt7s9czfanv3b4/post/38) |
-| 08 | Oct 14 | **Midterm** | — | | | |
-| 09 | Oct 21 | Virtualization in HPC | R6 | | Project 2A due (Oct 24) | |
-| 10 | Oct 28 | Data in HPC + security | R7 | | Project 3 check-in due (Oct 28); Project 2B due (Oct 31) | |
-| 11 | Nov 4 | Fault tolerance | R8 | | | |
-| 12 | Nov 11 | AI in HPC | R9 | | | |
-| 13 | Nov 18 | Open — possible guest speaker | R10 | | Project work time | |
-| 14 | Nov 25 | Thanksgiving break | R11 (optional) | — | | |
-| 15 | Dec 2 | Wrap-up, presentations, final review | — | — | Project 3 due at final exam (date TBA) | |
+| Week | Date | Topic | HW | Projects | Materials |
+|------|------|-------|----|----------|-----------|
+| 01 | Aug 26 | Intro to the class + planning questionnaire | — | — | [slides](/assets/docs/comp464/lecture01_comp464.pdf) |
+| 02 | Sep 2 | Intro to HPC: architectures, networks, topics overview | — | | [slides](/assets/docs/comp464/lecture02_comp464.pdf) |
+| 03 | Sep 9 | Networks and architectures (cont.) + Linux, finalize | | Project 1 announced | [slides](/assets/docs/comp464/lecture03_comp464.pdf) |
+| 04 | Sep 16 | Parallel programming (intro) | | | |
+| 05 | Sep 23 | Parallel programming (OpenMP) | | | [slides](/assets/docs/comp464/lecture05_comp464.pdf) |
+| 06 | Sep 30 | Parallel programming (MPI) | | Project 1 due; Projects 2 and 3 announced | [slides](/assets/docs/comp464/lecture06_comp464.pdf) |
+| 07 | Oct 7 | Performance monitoring + midterm review | | Project 2B assigned (Oct 10); Project 3 assigned (Oct 12) | [slides](/assets/docs/comp464/lecture07_comp464.pdf), practice [problems](/teaching/comp464/practice-questions/), [answers](/teaching/comp464/practice-answers/), [Piazza](https://piazza.com/class/mt7s9czfanv3b4/post/38) |
+| 08 | Oct 14 | Virtualization in HPC | | | [slides](/assets/docs/comp464/lecture08_comp464.pdf) |
+| 09 | Oct 21 | Data in HPC + security | | Project 2A due (Oct 24) | [slides](/assets/docs/comp464/lecture09_comp464.pdf) |
+| 10 | Oct 28 | **Midterm** | | Project 3 check-in due (Oct 28); Project 2B due (Oct 31) | |
+| 11 | Nov 4 | Fault tolerance | | | [slides](/assets/docs/comp464/lecture10_comp464.pdf) |
+| 12 | Nov 11 | AI in HPC | | | |
+| 13 | Nov 18 | AI in HPC | | Project work time | [viewing instructions](https://piazza.com/class/mt7s9czfanv3b4/post/59) |
+| 14 | Nov 25 | Thanksgiving break | — | | |
+| 15 | Dec 2 | Wrap-up, presentations, final review | — | Project 3 due at final exam (date TBA) | |
 
 Readings are posted to Piazza the week before the lecture they accompany, with
 links to the materials. No material is assigned over breaks.
